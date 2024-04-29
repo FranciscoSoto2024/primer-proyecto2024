@@ -14,7 +14,7 @@ constructor(){
   {
     id: "",
     nombre: "tattoo estilo japones",
-    raza: "japones",
+    origen: "japones",
     edad: "5000",
     imagen: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Japanese_body_suit.jpg/250px-Japanese_body_suit.jpg",
   }  
